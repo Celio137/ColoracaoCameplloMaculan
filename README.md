@@ -9,10 +9,9 @@ Implementação em C++ da heurística gulosa de coloração de vértices com pr�
 | Arquivo | Descrição |
 |---|---|
 | `ColoracaoWP.cpp` | Programa completo, com as duas versões do algoritmo |
-| `entradas/entrada_exemplo.txt` | Grafo de 8 vértices e 13 arestas do artigo |
-| `entradas/entrada_coroa_pior.txt` | Grafo coroa (n = 4) com numeração que leva a 4 cores |
-| `entradas/entrada_coroa_melhor.txt` | O mesmo grafo coroa, com numeração que leva a 2 cores |
-| `Artigo_Coloracao_Grafos_SBC.pdf` | Artigo sobre a implementação |
+| `entrada_exemplo.txt` | Grafo de 8 vértices e 13 arestas do artigo |
+| `entrada_coroa_pior.txt` | Grafo coroa (n = 4) com numeração que leva a 4 cores |
+| `entrada_coroa_melhor.txt` | O mesmo grafo coroa, com numeração que leva a 2 cores |
 
 ## Como compilar e executar
 
